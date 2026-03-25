@@ -1,0 +1,1 @@
+import{o as e,e as o}from"./modules/vue-D6CxFPn4.js";import{u as _}from"./slidev/context-C9swm0uP.js";import{_ as t}from"./index-CjGI1ann.js";const s={class:"red-grid-bg"},r={__name:"RedGrid",setup(c){return _(),(n,a)=>(e(),o("div",s))}},d=t(r,[["__scopeId","data-v-733418ef"]]);export{d as _};
